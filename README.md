@@ -30,14 +30,6 @@ An intelligent email assistant built with **Spring AI** that auto-generates prof
 ## 🧪 Setup Instructions
 
 ### 1. Backend (Spring Boot + Spring AI)
+Setup unstruction currently not available..!
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/ai-email-assistant.git
-cd ai-email-assistant/backend
-
-# Set your OpenAI or other API key in application.properties
-vim src/main/resources/application.properties
-
-# Run the application
-./mvnw spring-boot:run
+Working on extension part and frontend.... Will Update soon....!
